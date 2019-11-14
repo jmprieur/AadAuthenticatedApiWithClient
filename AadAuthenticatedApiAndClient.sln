@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AadAuthenticatedApi", "AadA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AadAuthenticatedApi.Client", "AadAuthenticatedApi.Client\AadAuthenticatedApi.Client.csproj", "{D38056C8-D01A-4ED4-A4BF-70E774D3E66E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Identity.Web", "Microsoft.Identity.Web\Microsoft.Identity.Web.csproj", "{81FD386F-8237-45E4-B0FA-852E25693476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{D38056C8-D01A-4ED4-A4BF-70E774D3E66E}.Release|x64.Build.0 = Release|Any CPU
 		{D38056C8-D01A-4ED4-A4BF-70E774D3E66E}.Release|x86.ActiveCfg = Release|Any CPU
 		{D38056C8-D01A-4ED4-A4BF-70E774D3E66E}.Release|x86.Build.0 = Release|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Debug|x64.Build.0 = Debug|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Debug|x86.Build.0 = Debug|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Release|x64.ActiveCfg = Release|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Release|x64.Build.0 = Release|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Release|x86.ActiveCfg = Release|Any CPU
+		{81FD386F-8237-45E4-B0FA-852E25693476}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
