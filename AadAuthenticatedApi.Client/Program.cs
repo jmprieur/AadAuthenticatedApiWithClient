@@ -32,7 +32,6 @@ namespace AadAuthenticatedApi.Client
             };
 
             var result = await p.GetAccessToken();
-            File.WriteAllText("foo.txt", result);
 
             Console.WriteLine(result);
 
